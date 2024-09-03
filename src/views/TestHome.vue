@@ -1,6 +1,9 @@
 <template>
   <div>
-    홈화면 입니다
+    <img :src="require('@/assets/logo.png')">
+    <div>
+      홈화면 입니다
+    </div>
     <br>
     <br>
     <br>
